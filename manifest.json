@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "yaml-to-sqlite",
+  "versions": [
+    {
+      "commit": "1405bc83c8f2d4d8cd772ccacc340754f22b153e",
+      "parsed_at": "2026-10-15T09:04:33.661156+00:00",
+      "tag": "1.0",
+      "filetree": "filetree/1405bc83c8f2d4d8cd772ccacc340754f22b153e.nq.gz",
+      "blobs": [
+        "blob/097151e5be4603c5b416537ff691b0ef4db0473a.nq.gz",
+        "blob/a3b51aa4e08b5f1a471c8dadcc704a44d1fa9270.nq.gz",
+        "blob/7137aa5dc92dd5547e3ba14e655c6c8c6f0f9eae.nq.gz",
+        "blob/15a81eb104027fd2d8a2be6d4514cb68ad80e777.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/bcf099bcdef2830e9ca0b59daf78d0f6fb2902e8.nq.gz",
+        "blob/df13fc50cb3419b8c0ea7e72f69adc478bd3f2e9.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ee09230f7298246c3ded0925f027e7187e025069.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
