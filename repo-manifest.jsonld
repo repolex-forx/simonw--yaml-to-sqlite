@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/yaml-to-sqlite/commit/1405bc83c8f2d4d8cd772ccacc340754f22b153e",
       "git:hexsha": "1405bc83c8f2d4d8cd772ccacc340754f22b153e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.0",
+      "repolex:parsedAt": "2026-10-15T09:06:33.977021+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/yaml-to-sqlite/commit/bf5d78a77697f2976e4a61178ac225c56dced141",
