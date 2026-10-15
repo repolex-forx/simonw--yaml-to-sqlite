@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "yaml-to-sqlite",
+  "versions": [
+    {
+      "commit": "1405bc83c8f2d4d8cd772ccacc340754f22b153e",
+      "tag": "1.0",
+      "parsed_at": "2026-10-15T09:06:33.978320+00:00"
+    }
+  ]
+}
